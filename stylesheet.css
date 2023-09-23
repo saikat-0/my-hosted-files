@@ -1,4 +1,4 @@
-<b:skin version='1.3.0'><![CDATA[
+
     
       /*
       <Group description="Theme Color">
@@ -164,7 +164,7 @@
       
       .pAn{animation:AnPr 2s linear infinite}.pSt1{background-image:linear-gradient(45deg,rgba(204,204,204,.15) 25%,transparent 25%,transparent 50%,rgba(204,204,204,.15) 50%,rgba(204,204,204,.15) 75%,transparent 75%,transparent);background-size:50px 50px}.drK .pBar{background:var(--darkU)}.drK .pSt{background-image:linear-gradient(45deg,rgba(255,0,0,.15) 25%,transparent 25%,transparent 50%,rgba(255,0,0,.15) 50%,rgba(255,0,0,.15) 75%,transparent 75%,transparent);background-size:50px 50px}
 
-  ]]></b:skin>
+
 
 <b:if cond='!data:blog.isMobileRequest'>
     /*
