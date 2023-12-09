@@ -30,7 +30,7 @@ body {
 
     #pdf-viewer {
       width: 100%;
-      height: calc(100vh - 120px); /* Adjusted height for the fixed toolbar and improved spacing */
+      height: 100vh; /* Adjusted height for the fixed toolbar and improved spacing */
       border: none;
     }
 
